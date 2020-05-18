@@ -8,7 +8,7 @@ const fs = require('fs');
 //   fs.writeFileSync('dd.txt', res.data);
 //   console.log('over')
 // })
-//
+
 // axios.get('https://www.lightnovel.cn/forum.php?mod=viewthread&tid=937695&extra=&authorid=950920&page=2').then((res) => {
 // 
 //   // Or
@@ -24,9 +24,18 @@ const fs = require('fs');
 // })
 //
 
-let filename = "dd.txt"
-let content = fs.readFileSync(process.cwd() + "/" + filename).toString()
 const cheerio = require('cheerio');
-const $ = cheerio.load(content);
-console.log($('#postmessage_17975561').text())
+const files = ['dd.txt', 'dd2.txt', 'dd3.txt'];
+let counter = 0;
+files.map(filename => {
+  const content = fs.readFileSync(process.cwd() + "/" + filename).toString()
+  const $ = cheerio.load(content);
+  const all = $('[id^=postmessage_]')
+  console.log(all.length)
+  for(let i =0;i<all.length;i++){
+    fs.writeFileSync('doc/'+String(counter)+'.md', $(all[i]).text());
+    counter ++;
+  }
+})
+
 
