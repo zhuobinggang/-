@@ -1,0 +1,457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>[冰夜汉化][WEB][紅き血に口づけを]为鲜血献上吻~从没用技能开始的逆转人生~[2019/6/26更新第31话]|轻之国度-轻小说 -  Powered by Discuz!</title>
+<link href="https://www.lightnovel.cn/thread-937695-1-1.html" rel="canonical" />
+<meta name="keywords" content="轻小说,轻之国度,轻小说原创,轻小说阅读,轻小说交流,轻国,LK" />
+<meta name="description" content="轻之国度是一个以分享交流轻小说为主的论坛，希望大家能喜欢！ " />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2020 Tencent Cloud." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="https://www.lightnovel.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?b43" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?b43" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'b43', charset = 'utf-8', discuz_uid = '0', cookiepre = 'discuz_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login', creditnotice = '1|威望|,2|轻币|枚,4|XD|个', defaultstyle = '', REPORTURL = 'aHR0cHM6Ly93d3cubGlnaHRub3ZlbC5jbi9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmdGlkPTkzNzY5NSZleHRyYT0mYXV0aG9yaWQ9OTUwOTIwJnBhZ2U9Mw==', SITEURL = 'https://www.lightnovel.cn/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?b43" type="text/javascript"></script>
+<meta name="application-name" content="轻之国度" />
+<meta name="msapplication-tooltip" content="轻之国度" />
+<meta name="msapplication-task" content="name=门户;action-uri=https://www.lightnovel.cn/portal.php;icon-uri=https://www.lightnovel.cn/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=https://www.lightnovel.cn/forum.php;icon-uri=https://www.lightnovel.cn/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=https://www.lightnovel.cn/group.php;icon-uri=https://www.lightnovel.cn/static/image/common/group.ico" /><meta name="msapplication-task" content="name=家园;action-uri=https://www.lightnovel.cn/home.php;icon-uri=https://www.lightnovel.cn/static/image/common/home.ico" /><link rel="archives" title="轻之国度" href="https://www.lightnovel.cn/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?b43' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/forum.js?b43" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('https://www.lightnovel.cn/');">设为首页</a><a href="https://www.lightnovel.cn/"  onclick="addFavorite(this.href, '轻之国度');return false;">收藏本站</a><a href="javascript:;" id="u179stranlink">繁体中文</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册（右键在新窗口打开）</a>
+</div>
+</div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="轻之国度"><img src="static/image/common/logo.png" alt="轻之国度" border="0" /></a></h2><script src="data/cache/logging.js?b43" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="pwmd5('ls_password');return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input type="text" name="username" id="ls_username" class="px vm xg1"  value="UID/用户名/Email" onfocus="if(this.value == 'UID/用户名/Email'){this.value = '';this.className = 'px vm';}" onblur="if(this.value == ''){this.value = 'UID/用户名/Email';this.className = 'px vm xg1';}" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册（右键在新窗口打开）</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="https://www.lightnovel.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D937695%26extra%3D%26authorid%3D950920%26page%3D3&statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQ登录" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">只需一步，快速开始</p>
+</div>
+</div>
+</form>
+
+<script src="data/cache/md5.js?b43" type="text/javascript" reload="1"></script>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(173);})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="610c35ed" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="173" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E9%9D%92%E6%98%A5%E7%8C%AA%E5%A4%B4&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">青春猪头</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%8F%AA%E8%A6%81%E9%95%BF%E5%BE%97%E5%8F%AF%E7%88%B1%EF%BC%8C%E5%8D%B3%E4%BD%BF%E6%98%AF%E5%8F%98%E6%80%81%E4%BD%A0%E4%B9%9F%E5%96%9C%E6%AC%A2%E5%90%97&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">只要长得可爱，即使是变态你也喜欢吗</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%AE%9E%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E4%B9%89%E7%9A%84%E6%95%99%E5%AE%A4&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">欢迎来到实力至上主义的教室</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%87%89%E5%AE%AB%E6%98%A5%E6%97%A5%E7%9A%84%E5%BF%A7%E9%83%81&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">凉宫春日的忧郁</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">刀剑神域</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E7%BA%A6%E4%BC%9A%E5%A4%A7%E4%BD%9C%E6%88%98&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">约会大作战</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E8%A2%AB%E5%8D%B7%E5%85%A5%E4%BA%86%E5%8B%87%E8%80%85%E5%8F%AC%E5%94%A4%E4%BA%8B%E4%BB%B6%E5%8D%B4%E5%8F%91%E7%8E%B0%E5%BC%82%E4%B8%96%E7%95%8C%E5%BE%88%E5%92%8C%E5%B9%B3&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">被卷入了勇者召唤事件却发现异世界很和平</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%BA%B6%E6%B0%91%E6%A0%B7%E6%9C%AC&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">庶民样本</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E5%BD%95&amp;formhash=610c35ed&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">盾之勇者成名录</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="173" >本版</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('173'), tid = parseInt('937695');</script>
+
+<script src="data/cache/forum_viewthread.js?b43" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '1000';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">轻之国度</a><em>&raquo;</em><a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=3">ACGN资源分享</a> <em>&rsaquo;</em> <a href="forum-173-1.html">最新轻小说分享</a> <em>&rsaquo;</em> <a href="thread-937695-1-1.html">[冰夜汉化][WEB][紅き血に口づけを]为鲜血献上吻~从没用 ...</a>
+</div>
+</div>
+
+<style>.pls .avatar { text-align: center; }.pls { width: 180px; } .pls .avatar img { height: auto; max-width: 140px; width: auto; } .ie6 .pls .avatar img { width: expression(this.width > 140 ? 140 : true); } .bui { width: 510px !important; } .bui .m img { height: auto; max-width: 140px; width: auto; } .ie6 .bui .m img { width: expression(this.width > 140 ? 140 : true); } big</style><style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"><div class="pg"><a href="forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page=2" class="prev">&nbsp;&nbsp;</a><a href="forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page=1">1</a><a href="forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page=2">2</a><strong>3</strong><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="3" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page='+this.value;; doane(event);}" /><span title="共 3 页"> / 3 页</span></label></div></div>
+<span class="y pgb"><a href="forum-173-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=173')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div id="tath" class="cl">
+<a href="space-uid-950920.html" title="空虚之箱"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=950920&size=small" /></a>
+楼主: <a href="space-uid-950920.html" title="空虚之箱">空虚之箱</a>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=937695" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=937695" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=937695" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<span class="xg1 side_btn">
+<a onclick="setcookie('close_leftinfo', 1);location.reload();" title="收起左侧" class="btn_s_close" href="javascript:;"><img src="static/image/common/control_l.png" alt="收起左侧" class="vm" /></a>
+</span>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=173&amp;filter=typeid&amp;typeid=735">[<b><font color="#FF8C00">WEB</font></b>]</a>
+<span id="thread_subject">[冰夜汉化][WEB][紅き血に口づけを]为鲜血献上吻~从没用技能开始的逆转人生~[2019/6/26更新第31话]</span>
+</h1>
+<span class="xg1">
+<a href="thread-937695-1-1.html" onclick="return copyThreadUrl(this, '轻之国度')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_19817497" ><table id="pid19817497" class="plhin" summary="pid19817497" cellspacing="0" cellpadding="0">
+<tr>
+ <a name="lastpost"></a><td class="pls" rowspan="2">
+<div id="favatar19817497" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-950920.html" target="_blank" class="xw1" style="color: #009933">空虚之箱</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo19817497" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo19817497_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-950920.html" target="_blank" class="xi2" style="color: #009933">空虚之箱</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?950920" target="_blank" class="xi2">950920</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2017-1-17</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=950920&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-950920.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=950920&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=19817497"   id="postnum19817497" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>41</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon19817497" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton19817497">发表于 2020-5-3 22:33</em>
+<span class="pipe">|</span>
+<a href="thread-937695-3-1.html" rel="nofollow">显示全部楼层</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_19817497">
+<div class="quote"><blockquote><font size="2"><a href="https://www.lightnovel.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=19817493&amp;ptid=937695" target="_blank"><font color="#999999">空虚之箱 发表于 2020-5-3 22:32</font></a></font><br />
+草，年更？ 希望有兴趣的加我们群催更，要不根本没人肯动手</blockquote></div><br />
+估计近期会继续更新</td></tr></table>
+
+
+</div>
+<div id="comment_19817497" class="cm">
+</div>
+
+<div id="post_rate_div_19817497"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition19817497"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=19817497&amp;extra=&amp;page=3" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport19817497', 'misc.php?mod=report&rtype=post&rid=19817497&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="610c35ed" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="" />
+<input type="hidden" name="page" value="3" />
+</form>
+
+
+
+<div class="pgs mtm mbm cl">
+<div class="pg"><a href="forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page=2" class="prev">&nbsp;&nbsp;</a><a href="forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page=1">1</a><a href="forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page=2">2</a><strong>3</strong><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="3" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=937695&amp;extra=&amp;authorid=950920&amp;page='+this.value;; doane(event);}" /><span title="共 3 页"> / 3 页</span></label></div><span class="pgb y"><a href="forum-173-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=173')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('15');
+var postmaxchars = parseInt('200000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?b43" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册（右键在新窗口打开）</a>
+
+
+<a href="https://www.lightnovel.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D937695%26extra%3D%26authorid%3D950920%26page%3D3&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="610c35ed" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=173" class="y" target="_blank">本版积分规则</a>
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label class="lb"><input type="checkbox" name="adddynamic" class="pc" value="1" />回帖并转播</label>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 1, 0, 'forum.php?mod=viewthread&tid=937695&authorid=950920', 3);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=610c35ed&fuid='+values['fuid'];
+}
+}
+</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="https://www.lightnovel.cn" target="_blank">轻之国度</a></strong>
+<style type="text/css">
+
+#u179stranlink{color: #FF0000 !important;}
+#nv #u179stranlink {
+line-height: 33px;
+height: 33px;
+}
+</style>
+<p style="display: none; height:0px; width:0px; " ><a title="javascript u179 and vcpic go js and css" href="http://www.wanmeiff.com">JS of wanmeiff.com and vcpic.com Please keep this copyright information, respect of, thank you!</a><a  title="javascript u179 and vcpic go js and css" href="http://www.vcpic.com">JS of wanmeiff.com and vcpic.com Please keep this copyright information, respect of, thank you!</a></p>
+<script type="text/javascript" language="javascript"> var Default_isFT = 0 </script><SCRIPT language=Javascript src="source/plugin/u179_jtft/u179_js/12344279923_utf8.js"></SCRIPT> &nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1b43" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"5328796","ui":0,"rt":"forum","md":"viewthread","fi":"173","ti":"937695","pn":3,"qq":"000"},"extraParams":""});</script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274060484'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/z_stat.php%3Fid%3D1274060484' type='text/javascript'%3E%3C/script%3E"));</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146767288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146767288-1');
+</script></p>
+<p class="xs0">
+GMT+8, 2020-5-18 21:15<span id="debuginfo">
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.4</em></p>
+<p class="xs0">Copyright &copy; 2001-2020, Tencent Cloud.</p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1589807747" type="text/javascript"></script>
+
+<div id="scrolltop">
+<span><a href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;extra=&amp;page=3" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum-173-1.html" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+</body>
+</html>

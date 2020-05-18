@@ -1,0 +1,2963 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>[冰夜汉化][WEB][紅き血に口づけを]为鲜血献上吻~从没用技能开始的逆转人生~[2019/6/26更新第31话]|轻之国度-轻小说 -  Powered by Discuz!</title>
+<link href="https://www.lightnovel.cn/thread-937695-1-1.html" rel="canonical" />
+<meta name="keywords" content="轻小说,轻之国度,轻小说原创,轻小说阅读,轻小说交流,轻国,LK" />
+<meta name="description" content="轻之国度是一个以分享交流轻小说为主的论坛，希望大家能喜欢！ " />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2020 Tencent Cloud." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="https://www.lightnovel.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?b43" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?b43" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'b43', charset = 'utf-8', discuz_uid = '0', cookiepre = 'discuz_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login', creditnotice = '1|威望|,2|轻币|枚,4|XD|个', defaultstyle = '', REPORTURL = 'aHR0cHM6Ly93d3cubGlnaHRub3ZlbC5jbi90aHJlYWQtOTM3Njk1LTEtMS5odG1s', SITEURL = 'https://www.lightnovel.cn/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?b43" type="text/javascript"></script>
+<meta name="application-name" content="轻之国度" />
+<meta name="msapplication-tooltip" content="轻之国度" />
+<meta name="msapplication-task" content="name=门户;action-uri=https://www.lightnovel.cn/portal.php;icon-uri=https://www.lightnovel.cn/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=https://www.lightnovel.cn/forum.php;icon-uri=https://www.lightnovel.cn/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=https://www.lightnovel.cn/group.php;icon-uri=https://www.lightnovel.cn/static/image/common/group.ico" /><meta name="msapplication-task" content="name=家园;action-uri=https://www.lightnovel.cn/home.php;icon-uri=https://www.lightnovel.cn/static/image/common/home.ico" /><link rel="archives" title="轻之国度" href="https://www.lightnovel.cn/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?b43' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/forum.js?b43" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('https://www.lightnovel.cn/');">设为首页</a><a href="https://www.lightnovel.cn/"  onclick="addFavorite(this.href, '轻之国度');return false;">收藏本站</a><a href="javascript:;" id="u179stranlink">繁体中文</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册（右键在新窗口打开）</a>
+</div>
+</div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="轻之国度"><img src="static/image/common/logo.png" alt="轻之国度" border="0" /></a></h2><script src="data/cache/logging.js?b43" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="pwmd5('ls_password');return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input type="text" name="username" id="ls_username" class="px vm xg1"  value="UID/用户名/Email" onfocus="if(this.value == 'UID/用户名/Email'){this.value = '';this.className = 'px vm';}" onblur="if(this.value == ''){this.value = 'UID/用户名/Email';this.className = 'px vm xg1';}" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册（右键在新窗口打开）</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="https://www.lightnovel.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D937695%26extra%3Dpage%253D1%26page%3D1&statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQ登录" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">只需一步，快速开始</p>
+</div>
+</div>
+</form>
+
+<script src="data/cache/md5.js?b43" type="text/javascript" reload="1"></script>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(173);})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="82e1cf27" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="173" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E9%9D%92%E6%98%A5%E7%8C%AA%E5%A4%B4&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">青春猪头</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%8F%AA%E8%A6%81%E9%95%BF%E5%BE%97%E5%8F%AF%E7%88%B1%EF%BC%8C%E5%8D%B3%E4%BD%BF%E6%98%AF%E5%8F%98%E6%80%81%E4%BD%A0%E4%B9%9F%E5%96%9C%E6%AC%A2%E5%90%97&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">只要长得可爱，即使是变态你也喜欢吗</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%AE%9E%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E4%B9%89%E7%9A%84%E6%95%99%E5%AE%A4&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">欢迎来到实力至上主义的教室</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%87%89%E5%AE%AB%E6%98%A5%E6%97%A5%E7%9A%84%E5%BF%A7%E9%83%81&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">凉宫春日的忧郁</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">刀剑神域</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E7%BA%A6%E4%BC%9A%E5%A4%A7%E4%BD%9C%E6%88%98&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">约会大作战</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E8%A2%AB%E5%8D%B7%E5%85%A5%E4%BA%86%E5%8B%87%E8%80%85%E5%8F%AC%E5%94%A4%E4%BA%8B%E4%BB%B6%E5%8D%B4%E5%8F%91%E7%8E%B0%E5%BC%82%E4%B8%96%E7%95%8C%E5%BE%88%E5%92%8C%E5%B9%B3&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">被卷入了勇者召唤事件却发现异世界很和平</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E5%BA%B6%E6%B0%91%E6%A0%B7%E6%9C%AC&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">庶民样本</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E5%BD%95&amp;formhash=82e1cf27&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">盾之勇者成名录</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="173" >本版</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('173'), tid = parseInt('937695');</script>
+
+<script src="data/cache/forum_viewthread.js?b43" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '1000';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">轻之国度</a><em>&raquo;</em><a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=3">ACGN资源分享</a> <em>&rsaquo;</em> <a href="forum-173-1.html">最新轻小说分享</a> <em>&rsaquo;</em> <a href="thread-937695-1-1.html">[冰夜汉化][WEB][紅き血に口づけを]为鲜血献上吻~从没用 ...</a>
+</div>
+</div>
+
+<style>.pls .avatar { text-align: center; }.pls { width: 180px; } .pls .avatar img { height: auto; max-width: 140px; width: auto; } .ie6 .pls .avatar img { width: expression(this.width > 140 ? 140 : true); } .bui { width: 510px !important; } .bui .m img { height: auto; max-width: 140px; width: auto; } .ie6 .bui .m img { width: expression(this.width > 140 ? 140 : true); } big</style><style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"><div class="pg"><strong>1</strong><a href="thread-937695-2-1.html">2</a><a href="thread-937695-3-1.html">3</a><a href="thread-937695-4-1.html">4</a><a href="thread-937695-5-1.html">5</a><a href="thread-937695-6-1.html">6</a><a href="thread-937695-7-1.html">7</a><a href="thread-937695-8-1.html">8</a><a href="thread-937695-9-1.html">9</a><a href="thread-937695-10-1.html">10</a><a href="thread-937695-23-1.html" class="last">... 23</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=937695&amp;extra=page%3D1&amp;page='+this.value;; doane(event);}" /><span title="共 23 页"> / 23 页</span></label><a href="thread-937695-2-1.html" class="nxt">下一页</a></div></div>
+<span class="y pgb" id="visitedforums" onmouseover="$('visitedforums').id = 'visitedforumstmp';this.id = 'visitedforums';showMenu({'ctrlid':this.id,'pos':'34'})"><a href="forum-173-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=173')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div class="hm ptn">
+<span class="xg1">查看:</span> <span class="xi1">136272</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">452</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=937695" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=937695" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=937695" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<span class="xg1 side_btn">
+<a onclick="setcookie('close_leftinfo', 1);location.reload();" title="收起左侧" class="btn_s_close" href="javascript:;"><img src="static/image/common/control_l.png" alt="收起左侧" class="vm" /></a>
+</span>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=173&amp;filter=typeid&amp;typeid=735">[<b><font color="#FF8C00">WEB</font></b>]</a>
+<span id="thread_subject">[冰夜汉化][WEB][紅き血に口づけを]为鲜血献上吻~从没用技能开始的逆转人生~[2019/6/26更新第31话]</span>
+</h1>
+<span class="xg1">
+<a href="thread-937695-1-1.html" onclick="return copyThreadUrl(this, '轻之国度')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_17970614" ><table id="pid17970614" class="plhin" summary="pid17970614" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17970614" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-950920.html" target="_blank" class="xw1" style="color: #009933">空虚之箱</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17970614" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17970614_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-950920.html" target="_blank" class="xi2" style="color: #009933">空虚之箱</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?950920" target="_blank" class="xi2">950920</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2017-1-17</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=950920&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-950920.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=950920&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=937695&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="thread-937695-1-1.html"   id="postnum17970614" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>1</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17970614" src="static/image/common/online_member.gif" />
+<em id="authorposton17970614">发表于 2018-8-31 23:23</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=950920" rel="nofollow">只看该作者</a>
+<span class="none"><img src="static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="forum.php?mod=viewthread&amp;tid=937695&amp;extra=page%3D1&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 17970614);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17970614">
+<i class="pstatus"> 本帖最后由 空虚之箱 于 2019-6-26 22:22 编辑 </i><br />
+<br />
+书名： 紅き血に口づけを ～外れスキルからの逆転人生～<br />
+译名： 为鲜血献上吻 ~从没用技能开始的逆转人生~<br />
+作者： りょうと かえ<br />
+插画： ながれぼし<br />
+原作链接(なろう)： <a href="https://ncode.syosetu.com/n3668ef/" target="_blank">https://ncode.syosetu.com/n3668ef/</a><br />
+<br />
+仅供个人学习交流使用，禁作商业用途<br />
+下载后请在24小时内删除，所有组织和人员不承担任何责任<br />
+请尊重翻译、扫图、录入、校对的辛勤劳动，转载请保留信息(￣3￣)<br />
+<br />
+------------------------其他信息------------------------------<br />
+<font color="#333333"><font face="&amp;quot;">招校对翻译润色还有小说大佬。</font></font><br />
+<font color="#333333"><font face="&amp;quot;">冰夜汉化组本职是漫画组，《为鲜血献上吻》是本组汉化的第一部小说。</font></font><br />
+<font color="#333333"><font face="&amp;quot;">冰夜汉化组交流群： 17群</font>979709767 （突然发现群号挺不错的）</font><br />
+<font color="#333333"><font face="&amp;quot;">小说工作群：855525019 招校对翻译润色还有小说大佬</font></font><br />
+<br />
+</td></tr></table>
+
+<div class="modact"><a href="forum.php?mod=misc&amp;action=viewthreadmod&amp;tid=937695" title="帖子模式" onclick="showWindow('viewthreadmod', this.href)">本主题由 zydxn 于 2020-4-4 14:18 删除回复</a></div>
+</div>
+<div id="comment_17970614" class="cm">
+</div>
+
+<h3 class="psth xs1"><span class="icon_ring vm"></span>评分</h3>
+<dl id="ratelog_17970614" class="rate">
+<dd style="margin:0">
+<div id="post_rate_17970614"></div>
+<table class="ratl">
+<tr>
+<th class="xw1" width="120"><a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17970614" onclick="showWindow('viewratings', this.href)" title="查看全部评分"> 参与人数 <span class="xi1">151</span></a></th><th class="xw1" width="80">轻币 <i><span class="xi1">+2059</span></i></th>
+<th>
+<a href="javascript:;" onclick="toggleRatelogCollapse('ratelog_17970614', this);" class="y xi2 op">收起</a>
+<i class="txt_h">理由</i>
+</th>
+</tr>
+<tbody class="ratl_l"><tr id="rate_17970614_647939">
+<td>
+<a href="space-uid-647939.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=647939&size=small" /></a> <a href="space-uid-647939.html" target="_blank">SUPERRUBBISH</a>
+</td><td class="xi1"> + 16</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_985602">
+<td>
+<a href="space-uid-985602.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=985602&size=small" /></a> <a href="space-uid-985602.html" target="_blank">1600306413</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_1041648">
+<td>
+<a href="space-uid-1041648.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1041648&size=small" /></a> <a href="space-uid-1041648.html" target="_blank">明末去</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_1091282">
+<td>
+<a href="space-uid-1091282.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1091282&size=small" /></a> <a href="space-uid-1091282.html" target="_blank">Nameless_</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_1105013">
+<td>
+<a href="space-uid-1105013.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1105013&size=small" /></a> <a href="space-uid-1105013.html" target="_blank">倾城之恋H</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_1070137">
+<td>
+<a href="space-uid-1070137.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1070137&size=small" /></a> <a href="space-uid-1070137.html" target="_blank">绿箭002292</a>
+</td><td class="xi1"> + 12</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_850134">
+<td>
+<a href="space-uid-850134.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=850134&size=small" /></a> <a href="space-uid-850134.html" target="_blank">Teryer</a>
+</td><td class="xi1"> + 16</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_36793">
+<td>
+<a href="space-uid-36793.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=36793&size=small" /></a> <a href="space-uid-36793.html" target="_blank">billy6881</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_1133048">
+<td>
+<a href="space-uid-1133048.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1133048&size=small" /></a> <a href="space-uid-1133048.html" target="_blank">liuhm53</a>
+</td><td class="xi1"> + 11</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17970614_998177">
+<td>
+<a href="space-uid-998177.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=998177&size=small" /></a> <a href="space-uid-998177.html" target="_blank">HJW5520</a>
+</td><td class="xi1"> + 12</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+</tbody>
+</table>
+<p class="ratc">
+<a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17970614" onclick="showWindow('viewratings', this.href)" title="查看全部评分" class="xi2">查看全部评分</a>
+</p>
+</dd>
+</dl>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+<div class="tshare cl">
+<b>分享到:&nbsp;</b>
+
+<a href="https://www.lightnovel.cn/home.php?mod=spacecp&ac=plugin&id=qqconnect:spacecp&pluginop=share&sh_type=4&thread_id=937695" id="k_share_to_qq" title="QQ好友和群" target="_blank"><i><img src="static/image/common/qq_share.png" alt="QQ好友和群" />QQ好友和群</i></a>
+</div>
+
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=937695&amp;formhash=82e1cf27" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber">334</span></i></a>
+<a class="followp" href="home.php?mod=spacecp&amp;ac=follow&amp;op=relay&amp;tid=937695&amp;from=forum" onclick="showWindow('relaythread', this.href, 'get', 0);" title="转播求扩散"><i><img src="static/image/common/rt.png" alt="转播" />转播</i></a>
+<a class="sharep" href="home.php?mod=spacecp&amp;ac=share&amp;type=thread&amp;id=937695" onclick="showWindow('sharethread', this.href, 'get', 0);" title="分享推精华"><i><img src="static/image/common/oshr.png" alt="分享" />分享</i></a>
+</div>
+</td>
+</tr>
+<tr id="_postposition17970614"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;reppost=17970614&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17970614', 'misc.php?mod=report&rtype=post&rid=17970614&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17971557" ><table id="pid17971557" class="plhin" summary="pid17971557" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17971557" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-504652.html" target="_blank" class="xw1" style="color: #0099CC">happysteei</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17971557" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17971557_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-504652.html" target="_blank" class="xi2" style="color: #0099CC">happysteei</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?504652" target="_blank" class="xi2">504652</a></dd>
+<dt>阅读权限</dt><dd>40</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2013-4-27</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=504652&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-504652.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=504652&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17971557"   id="postnum17971557" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>2</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17971557" src="static/image/common/online_member.gif" />
+<em id="authorposton17971557">发表于 2018-9-1 21:00</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=504652" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17971557">
+逆转人生的题材很多，这个又是要从哪个方向去描述呢？</td></tr></table>
+
+
+</div>
+<div id="comment_17971557" class="cm">
+</div>
+
+<div id="post_rate_div_17971557"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17971557"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17971557&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17971557', 'misc.php?mod=report&rtype=post&rid=17971557&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17971945" ><table id="pid17971945" class="plhin" summary="pid17971945" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17971945" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-748121.html" target="_blank" class="xw1" style="color: #0099CC">qwefghpoijhg</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17971945" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17971945_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-748121.html" target="_blank" class="xi2" style="color: #0099CC">qwefghpoijhg</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?748121" target="_blank" class="xi2">748121</a></dd>
+<dt>阅读权限</dt><dd>40</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2015-1-13</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=748121&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-748121.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=748121&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17971945"   id="postnum17971945" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>3</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17971945" src="static/image/common/online_member.gif" />
+<em id="authorposton17971945">发表于 2018-9-2 02:40</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=748121" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17971945">
+剛嗑完囤積很久的幼女戰記8和春物12<br />
+書荒中，期待是一部好作品</td></tr></table>
+
+
+</div>
+<div id="comment_17971945" class="cm">
+</div>
+
+<div id="post_rate_div_17971945"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17971945"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17971945&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17971945', 'misc.php?mod=report&rtype=post&rid=17971945&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17971955" ><table id="pid17971955" class="plhin" summary="pid17971955" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17971955" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-968693.html" target="_blank" class="xw1" style="color: #009933">aric8847</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17971955" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17971955_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-968693.html" target="_blank" class="xi2" style="color: #009933">aric8847</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?968693" target="_blank" class="xi2">968693</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2017-7-25</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=968693&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-968693.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=968693&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17971955"   id="postnum17971955" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>4</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17971955" src="static/image/common/online_member.gif" />
+<em id="authorposton17971955">发表于 2018-9-2 03:16</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=968693" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17971955">
+又有新坑？？太神啦！！</td></tr></table>
+
+
+</div>
+<div id="comment_17971955" class="cm">
+</div>
+
+<div id="post_rate_div_17971955"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17971955"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17971955&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17971955', 'misc.php?mod=report&rtype=post&rid=17971955&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17972137" ><table id="pid17972137" class="plhin" summary="pid17972137" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17972137" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-394173.html" target="_blank" class="xw1" style="color: #009933">k57876253</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17972137" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17972137_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-394173.html" target="_blank" class="xi2" style="color: #009933">k57876253</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?394173" target="_blank" class="xi2">394173</a></dd>
+<dt>阅读权限</dt><dd>70</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2012-6-1</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=394173&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-394173.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=394173&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17972137"   id="postnum17972137" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>5</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17972137" src="static/image/common/online_member.gif" />
+<em id="authorposton17972137">发表于 2018-9-2 11:00</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=394173" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17972137">
+没有出正文呢，等吧</td></tr></table>
+
+
+</div>
+<div id="comment_17972137" class="cm">
+</div>
+
+<div id="post_rate_div_17972137"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17972137"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17972137&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17972137', 'misc.php?mod=report&rtype=post&rid=17972137&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973132" ><table id="pid17973132" class="plhin" summary="pid17973132" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973132" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-988760.html" target="_blank" class="xw1" style="color: #009933">rogerlinio</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973132" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973132_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-988760.html" target="_blank" class="xi2" style="color: #009933">rogerlinio</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?988760" target="_blank" class="xi2">988760</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2018-3-5</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=988760&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-988760.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=988760&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973132"   id="postnum17973132" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>6</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973132" src="static/image/common/online_member.gif" />
+<em id="authorposton17973132">发表于 2018-9-3 00:25</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=988760" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973132">
+谢谢楼主翻译，不过<br />
+请问，能够简介一下吗?<br />
+会比较清楚<br />
+谢谢</td></tr></table>
+
+
+</div>
+<div id="comment_17973132" class="cm">
+</div>
+
+<div id="post_rate_div_17973132"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973132"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973132&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973132', 'misc.php?mod=report&rtype=post&rid=17973132&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973135" ><table id="pid17973135" class="plhin" summary="pid17973135" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973135" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-936781.html" target="_blank" class="xw1" style="color: #333333">太极座上</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973135" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973135_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-936781.html" target="_blank" class="xi2" style="color: #333333">太极座上</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?936781" target="_blank" class="xi2">936781</a></dd>
+<dt>阅读权限</dt><dd>10</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2016-9-12</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=936781&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-936781.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=936781&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973135"   id="postnum17973135" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>7</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973135" src="static/image/common/online_member.gif" />
+<em id="authorposton17973135">发表于 2018-9-3 00:36</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=936781" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973135">
+新坑吗？不过，有简介吗？</td></tr></table>
+
+
+</div>
+<div id="comment_17973135" class="cm">
+</div>
+
+<div id="post_rate_div_17973135"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973135"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973135&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973135', 'misc.php?mod=report&rtype=post&rid=17973135&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973304" ><table id="pid17973304" class="plhin" summary="pid17973304" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973304" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-363186.html" target="_blank" class="xw1" style="color: #0099CC">b2435124351</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973304" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973304_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-363186.html" target="_blank" class="xi2" style="color: #0099CC">b2435124351</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?363186" target="_blank" class="xi2">363186</a></dd>
+<dt>阅读权限</dt><dd>40</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2012-2-9</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=363186&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-363186.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=363186&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973304"   id="postnum17973304" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>8</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973304" src="static/image/common/online_member.gif" />
+<em id="authorposton17973304">发表于 2018-9-3 08:35</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=363186" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973304">
+新坑?先感謝一波 話說有簡介嗎?</td></tr></table>
+
+
+</div>
+<div id="comment_17973304" class="cm">
+</div>
+
+<div id="post_rate_div_17973304"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973304"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973304&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973304', 'misc.php?mod=report&rtype=post&rid=17973304&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973367" ><table id="pid17973367" class="plhin" summary="pid17973367" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973367" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-76867.html" target="_blank" class="xw1" style="color: #0099CC">该隐</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973367" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973367_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-76867.html" target="_blank" class="xi2" style="color: #0099CC">该隐</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?76867" target="_blank" class="xi2">76867</a></dd>
+<dt>阅读权限</dt><dd>30</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2008-10-12</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=76867&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-76867.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=76867&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973367"   id="postnum17973367" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>9</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973367" src="static/image/common/online_member.gif" />
+<em id="authorposton17973367">发表于 2018-9-3 09:47</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=76867" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973367">
+没落贵族吉鲁，在15岁时的仪式上得到技能≪血液増大≫，因此与吸血鬼皇女定下了婚约。然而某日，吸血鬼皇女却单方面宣布解除婚约。吉鲁受此打击而昏了过去。当他醒来时取得到另一项技能≪血液操作≫。而婚约解除的背后有着不可告人阴谋。从吸血鬼领地逃脱的吉鲁，与同伴们一起向必死的宿命挑战。登场的女角有，吸血鬼，妖精，兽人（狐）</td></tr></table>
+
+
+</div>
+<div id="comment_17973367" class="cm">
+</div>
+
+<div id="post_rate_div_17973367"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973367"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973367&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973367', 'misc.php?mod=report&rtype=post&rid=17973367&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973368" ><table id="pid17973368" class="plhin" summary="pid17973368" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973368" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-76867.html" target="_blank" class="xw1" style="color: #0099CC">该隐</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973368" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973368_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-76867.html" target="_blank" class="xi2" style="color: #0099CC">该隐</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?76867" target="_blank" class="xi2">76867</a></dd>
+<dt>阅读权限</dt><dd>30</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2008-10-12</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=76867&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-76867.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=76867&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973368"   id="postnum17973368" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>10</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973368" src="static/image/common/online_member.gif" />
+<em id="authorposton17973368">发表于 2018-9-3 09:50</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=76867" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973368">
+请教下，“外れスキル”中的“外れ”这个要怎么理解</td></tr></table>
+
+
+</div>
+<div id="comment_17973368" class="cm">
+</div>
+
+<div id="post_rate_div_17973368"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973368"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973368&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973368', 'misc.php?mod=report&rtype=post&rid=17973368&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973759" ><table id="pid17973759" class="plhin" summary="pid17973759" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973759" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-950920.html" target="_blank" class="xw1" style="color: #009933">空虚之箱</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973759" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973759_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-950920.html" target="_blank" class="xi2" style="color: #009933">空虚之箱</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?950920" target="_blank" class="xi2">950920</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2017-1-17</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=950920&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-950920.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=950920&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973759"   id="postnum17973759" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>11</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973759" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton17973759">发表于 2018-9-3 16:35</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=950920" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973759">
+<div class="quote"><blockquote><font size="2"><a href="https://www.lightnovel.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=17973368&amp;ptid=937695" target="_blank"><font color="#999999">该隐 发表于 2018-9-3 09:50</font></a></font><br />
+请教下，“外れスキル”中的“外れ”这个要怎么理解</blockquote></div><br />
+這個我們也爭論了很久。“不符自己的期望”，“偏離主流”，從這些角度出發篩選關鍵字。如果有更好的歡迎提出，副標題還能改</td></tr></table>
+
+
+</div>
+<div id="comment_17973759" class="cm">
+</div>
+
+<h3 class="psth xs1"><span class="icon_ring vm"></span>评分</h3>
+<dl id="ratelog_17973759" class="rate">
+<dd style="margin:0">
+<div id="post_rate_17973759"></div>
+<table class="ratl">
+<tr>
+<th class="xw1" width="120"><a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17973759" onclick="showWindow('viewratings', this.href)" title="查看全部评分"> 参与人数 <span class="xi1">3</span></a></th><th class="xw1" width="80">轻币 <i><span class="xi1">+36</span></i></th>
+<th>
+<a href="javascript:;" onclick="toggleRatelogCollapse('ratelog_17973759', this);" class="y xi2 op">收起</a>
+<i class="txt_h">理由</i>
+</th>
+</tr>
+<tbody class="ratl_l"><tr id="rate_17973759_858621">
+<td>
+<a href="space-uid-858621.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=858621&size=small" /></a> <a href="space-uid-858621.html" target="_blank">黑黑嘿嘿</a>
+</td><td class="xi1"> + 12</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17973759_947004">
+<td>
+<a href="space-uid-947004.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=947004&size=small" /></a> <a href="space-uid-947004.html" target="_blank">honpont</a>
+</td><td class="xi1"> + 11</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17973759_717174">
+<td>
+<a href="space-uid-717174.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=717174&size=small" /></a> <a href="space-uid-717174.html" target="_blank">shamanRX</a>
+</td><td class="xi1"> + 13</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+</tbody>
+</table>
+<p class="ratc">
+<a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17973759" onclick="showWindow('viewratings', this.href)" title="查看全部评分" class="xi2">查看全部评分</a>
+</p>
+</dd>
+</dl>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973759"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973759&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973759', 'misc.php?mod=report&rtype=post&rid=17973759&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973880" ><table id="pid17973880" class="plhin" summary="pid17973880" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973880" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-921439.html" target="_blank" class="xw1" style="color: #FF9900">rexelxxx</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973880" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973880_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-921439.html" target="_blank" class="xi2" style="color: #FF9900">rexelxxx</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?921439" target="_blank" class="xi2">921439</a></dd>
+<dt>阅读权限</dt><dd>80</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2016-7-5</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=921439&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-921439.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=921439&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973880"   id="postnum17973880" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>12</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973880" src="static/image/common/online_member.gif" />
+<em id="authorposton17973880">发表于 2018-9-3 18:05</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=921439" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973880">
+<div class="quote"><blockquote><font size="2"><a href="https://www.lightnovel.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=17973759&amp;ptid=937695" target="_blank"><font color="#999999">空虚之箱 发表于 2018-9-3 16:35</font></a></font><br />
+這個我們也爭論了很久。“不符自己的期望”，“偏離主流”，從這些角度出發篩選關鍵字。如果有更好的歡迎 ...</blockquote></div><br />
+用殘念來解釋如何，有種抽獎抽到安慰獎的感覺。</td></tr></table>
+
+
+</div>
+<div id="comment_17973880" class="cm">
+</div>
+
+<div id="post_rate_div_17973880"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973880"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973880&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973880', 'misc.php?mod=report&rtype=post&rid=17973880&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973950" ><table id="pid17973950" class="plhin" summary="pid17973950" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973950" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-76867.html" target="_blank" class="xw1" style="color: #0099CC">该隐</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973950" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973950_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-76867.html" target="_blank" class="xi2" style="color: #0099CC">该隐</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?76867" target="_blank" class="xi2">76867</a></dd>
+<dt>阅读权限</dt><dd>30</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2008-10-12</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=76867&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-76867.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=76867&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973950"   id="postnum17973950" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>13</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973950" src="static/image/common/online_member.gif" />
+<em id="authorposton17973950">发表于 2018-9-3 19:22</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=76867" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973950">
+<div class="quote"><blockquote><font color="#999999">空虚之箱 发表于 2018-9-3 16:35</font><br />
+<font color="#999999">這個我們也爭論了很久。“不符自己的期望”，“偏離主流”，從這些角度出發篩選關鍵字。如果有更好的歡迎 ...</font></blockquote></div><br />
+我没看这部，只看了简介<br />
+用意外，意想不到，出乎意料，不在情理之中这类词汇如何<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_17973950" class="cm">
+</div>
+
+<div id="post_rate_div_17973950"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973950"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973950&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973950', 'misc.php?mod=report&rtype=post&rid=17973950&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17973966" ><table id="pid17973966" class="plhin" summary="pid17973966" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17973966" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-76867.html" target="_blank" class="xw1" style="color: #0099CC">该隐</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17973966" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17973966_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-76867.html" target="_blank" class="xi2" style="color: #0099CC">该隐</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?76867" target="_blank" class="xi2">76867</a></dd>
+<dt>阅读权限</dt><dd>30</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2008-10-12</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=76867&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-76867.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=76867&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17973966"   id="postnum17973966" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>14</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17973966" src="static/image/common/online_member.gif" />
+<em id="authorposton17973966">发表于 2018-9-3 19:50</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=76867" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17973966">
+如果文中有一再提及强调，就翻。没的话，只就在简介有，那啥，视力不好没看到</td></tr></table>
+
+
+</div>
+<div id="comment_17973966" class="cm">
+</div>
+
+<div id="post_rate_div_17973966"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17973966"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17973966&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17973966', 'misc.php?mod=report&rtype=post&rid=17973966&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17975071" ><table id="pid17975071" class="plhin" summary="pid17975071" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17975071" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-313765.html" target="_blank" class="xw1" style="color: #0099CC">ks1230654</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17975071" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17975071_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-313765.html" target="_blank" class="xi2" style="color: #0099CC">ks1230654</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?313765" target="_blank" class="xi2">313765</a></dd>
+<dt>阅读权限</dt><dd>30</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2011-8-8</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=313765&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-313765.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=313765&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17975071"   id="postnum17975071" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>15</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17975071" src="static/image/common/online_member.gif" />
+<em id="authorposton17975071">发表于 2018-9-4 21:37</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=313765" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17975071">
+腦袋冒出來無副作用的死囚樂園</td></tr></table>
+
+
+</div>
+<div id="comment_17975071" class="cm">
+</div>
+
+<div id="post_rate_div_17975071"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17975071"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17975071&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17975071', 'misc.php?mod=report&rtype=post&rid=17975071&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17975126" ><table id="pid17975126" class="plhin" summary="pid17975126" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17975126" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-503029.html" target="_blank" class="xw1" style="color: #009933">sakurai21</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17975126" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17975126_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-503029.html" target="_blank" class="xi2" style="color: #009933">sakurai21</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?503029" target="_blank" class="xi2">503029</a></dd>
+<dt>阅读权限</dt><dd>60</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2013-4-22</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=503029&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-503029.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=503029&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17975126"   id="postnum17975126" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>16</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17975126" src="static/image/common/online_member.gif" />
+<em id="authorposton17975126">发表于 2018-9-4 22:00</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=503029" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17975126">
+我怎么感觉有出过漫画的样子？</td></tr></table>
+
+
+</div>
+<div id="comment_17975126" class="cm">
+</div>
+
+<div id="post_rate_div_17975126"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17975126"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17975126&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17975126', 'misc.php?mod=report&rtype=post&rid=17975126&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17975265" ><table id="pid17975265" class="plhin" summary="pid17975265" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17975265" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-504652.html" target="_blank" class="xw1" style="color: #0099CC">happysteei</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17975265" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17975265_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-504652.html" target="_blank" class="xi2" style="color: #0099CC">happysteei</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?504652" target="_blank" class="xi2">504652</a></dd>
+<dt>阅读权限</dt><dd>40</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2013-4-27</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=504652&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-504652.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=504652&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17975265"   id="postnum17975265" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>17</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17975265" src="static/image/common/online_member.gif" />
+<em id="authorposton17975265">发表于 2018-9-4 23:36</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=504652" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17975265">
+<div class="quote"><blockquote><font size="2"><a href="https://www.lightnovel.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=17973759&amp;ptid=937695" target="_blank"><font color="#999999">空虚之箱 发表于 2018-9-3 16:35</font></a></font><br />
+這個我們也爭論了很久。“不符自己的期望”，“偏離主流”，從這些角度出發篩選關鍵字。如果有更好的歡迎 ...</blockquote></div><br />
+不符合预期，偏离主流，“外道”噶哈哈~</td></tr></table>
+
+
+</div>
+<div id="comment_17975265" class="cm">
+</div>
+
+<div id="post_rate_div_17975265"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17975265"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17975265&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17975265', 'misc.php?mod=report&rtype=post&rid=17975265&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17975561" ><table id="pid17975561" class="plhin" summary="pid17975561" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17975561" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-950920.html" target="_blank" class="xw1" style="color: #009933">空虚之箱</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17975561" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17975561_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-950920.html" target="_blank" class="xi2" style="color: #009933">空虚之箱</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?950920" target="_blank" class="xi2">950920</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2017-1-17</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=950920&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-950920.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=950920&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17975561"   id="postnum17975561" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>18</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17975561" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton17975561">发表于 2018-9-5 10:46</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=950920" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17975561">
+1 罢婚<br />
+<br />
+翻译：盒子&nbsp; &nbsp;校对： 天理二阶堂&nbsp; &nbsp;润色： 4038多线<br />
+<br />
+那是發生在晚宴上的事。<br />
+銀髮的未婚妻艾莉絲比平時還要興奮。<br />
+<br />
+肩上的銀髮搖動著，漂亮的臉蛋泛著紅潮。<br />
+搖晃著被禮服強調的豐滿胸部，四處踱步用很快的語速說著話。<br />
+<br />
+作為吸血鬼族的她和人類的我，氣質上有著細微的差別。<br />
+虽然也有过几次无伤大雅的小吵小闹。<br />
+<br />
+对于时常处于低血压状态的吸血鬼来说，这着实让人有点担心。<br />
+当我还在担心發生了什麼事情的時候，艾莉絲突然拋出了宣言。<br />
+<br />
+那是令人震驚到無以復加的宣言。<br />
+<br />
+“在場的各位！我，阿拉姆迪德王國第三公主艾莉斯·阿拉姆迪德，將取消與迪恩王國吉爾·懷特男爵的婚約！”<br />
+<br />
+哈！？被指名的我——吉爾·懷特，踢倒椅子，猛然站了起來。<br />
+太過突然，根本不明就裏。<br />
+<br />
+但是艾莉斯的話還沒結束。<br />
+<br />
+“並且，我在此報告，布拉姆王國的克羅姆·卡烏茲伯爵和艾莉斯·阿拉姆迪德重新定下婚約！”<br />
+<br />
+站起來的我就這樣僵住了。<br />
+什么？废除婚约？<br />
+會場逐渐骚动起来。<br />
+<br />
+美艳的銀髮美少女艾莉絲滿臉得意。<br />
+突如其來的事情，讓我眼前一片黑暗。<br />
+<br />
+对身為沒落貴族的我来说，犹如上天的恩惠般的，同王女的婚约就这样被单方面终结了<br />
+在開口之前，愛麗絲撩起頭髮，繼續朝著我說話。<br />
+<br />
+“我找到了有比你更好的技能的人。而且爵位和個子都很高。”<br />
+艾莉絲的聲音帶著以往沒有的艷麗。<br />
+<br />
+在她的身旁站出來一位黑髮帥哥。<br />
+大概在25歲左右。無論是個子還是長相都在我之上。<br />
+<br />
+像畫一樣的男人，雖然很不甘心但是非常恰當的比喻。<br />
+穿著的衣服和裝飾品都比我的要高級。<br />
+<br />
+“初次見面，我就是剛剛介紹的克羅姆·卡烏茲，雖然我們大概再也不會見面了。”<br />
+<br />
+多麼討人厭的男人。<br />
+令人惱火的臉上，嘲弄的表情越發明顯。<br />
+<br />
+“我的技能是《血液無限》，比你的《血液增大》格位更高。”<br />
+我雙腳失去力氣，快要跪下了。<br />
+<br />
+即使被吸血鬼吸了血也沒關係的我的技能“血液增大”。<br />
+多虧15歲被神授予的《血液增大》，我才有幸成為了吸血鬼族的公主的婚約者。<br />
+<br />
+無論哪個國家的貴族，到了15歲，可以通過神官獲得一個技能。<br />
+我是個平庸的男爵，沒有過人的戰功和錢財。<br />
+<br />
+明明一点本事也没有，一直被人背地裏這樣說也只是靜靜地忍耐。<br />
+為了可愛的妹妹，也為了國家。<br />
+<br />
+屈服與艾莉絲的任性。<br />
+連牽手也不被允許，作為不能反抗的玩具生活著。<br />
+<br />
+吸血鬼族的公主只會與有吸血耐性的技能的人結婚。<br />
+雖然是舊的傳統，但還是因此成為了婚約者。<br />
+<br />
+最近，她明顯變得經常不高興。<br />
+隨著婚禮的臨近，就像不肯接受要和我在一起的事實一樣。<br />
+<br />
+該怎麼說呢。<br />
+確實，克羅姆的《血液無限》確實比我的技能更上位。<br />
+<br />
+在吵鬧和非難之中，開始混入驚訝和感嘆。<br />
+<br />
+如果是晚宴的參加者，傳統的事是眾所周知的。（吸血鬼只能和有吸血耐性的人结婚）<br />
+他們甚至知道我只滿足了技能和最低限度的爵位，並因此才成為了婚約者。<br />
+即使知道艾莉絲不喜歡我也無法相信會發生這樣的事。<br />
+<br />
+“那麼，有什麼想說的嗎？原未婚夫君”<br />
+<br />
+喉嚨發幹。<br />
+布拉姆王國和我的故國是同個等級的。<br />
+而且爵位也是對方要高。<br />
+<br />
+站立著一陣眩暈。只能承認了。<br />
+沒有一個能贏的地方。<br />
+<br />
+我感覺快要站不起來了。<br />
+<br />
+“給朕等等”<br />
+<br />
+低沉的聲音從大堂深處傳來。<br />
+雖然沉著但富有威嚴的聲音，響徹大堂。<br />
+<br />
+“父親……！”<br />
+“這……國王陛下！”<br />
+<br />
+聲音的主人是吸血鬼之王，卡西烏·阿拉姆迪德。<br />
+筋骨強健，是一個很有風範的壯年國王。<br />
+雖然頭髮和鬍子有些白了，仍然精力充沛的王。<br />
+<br />
+卡西烏王一邊鳴響腳步，一邊靠近我們，用嚴厲的目光瞪視著兩人。<br />
+看著他這副樣子，大堂所有人都屏住了呼吸。<br />
+<br />
+“你這傢伙……是叫克羅姆吧，不要再扯謊了！”<br />
+<br />
+那是雷鳴般的怒聲。<br />
+原本以為是因為廢除婚約的事情，卻是因不同的理由而震怒著。<br />
+<br />
+“居然說是《血液無限》！？你的技能是《技能詐稱》才對吧！！”<br />
+<br />
+“父親大人！？在，在說些什麼呢……有神官的證明書為證哦！<br />
+<br />
+“是，是啊！”<br />
+<br />
+面對著明顯變得狼狽的兩人，卡西烏王深深地皺起眉頭。<br />
+雖然見過幾面，但我還是第一次看到他這副樣子。<br />
+<br />
+“只要把錢給神官想要什麼證明都可以拿到！”<br />
+<br />
+“不……不單止這樣！克羅姆的血無論吸多少也沒關係的！”<br />
+<br />
+什麼……！？我說不出話來。<br />
+對吸血鬼來說，吸血不是單純的營養攝取。<br />
+特別是用牙齒來“吸血”的意義很沉重。<br />
+<br />
+那跟寵愛或者性的契約是同義的。<br />
+當然，我還沒有被艾麗斯吸過血。<br />
+<br />
+聽到女兒的告白，卡西斯王更加憤怒了。<br />
+不顧體面，朝著她怒吼。<br />
+<br />
+“艾莉絲，你已經吸了這傢伙的血嗎？？”<br />
+<br />
+艾麗斯臉上露出一瞬間糟糕了的表情，然後馬上就變得破罐子破摔了。<br />
+像搞錯了場合一般，若無其事地回答了。<br />
+<br />
+“沒錯，為了確認真偽順便吸了血。”<br />
+“你這愚蠢的傢伙！！”<br />
+<br />
+卡西烏王，飛快地扇了艾莉絲的臉頰。<br />
+包括艾莉絲在內，大堂裏所有人都沒預料到的行動。<br />
+艾莉絲就這樣倒在地上。<br />
+<br />
+“艾莉絲，朕的技能是什麼！”<br />
+<br />
+“哈，哈啊……！？”<br />
+<br />
+“忘記了嗎，朕被神授予的力量！”<br />
+<br />
+面對著無比憤怒的卡西烏王，摀住臉頰的艾莉絲不得不回答。<br />
+“是《夜之召喚》……”<br />
+<br />
+“那是假的。朕的技能不是這個”<br />
+<br />
+包括我在內，大堂裏所有人都明白了。<br />
+聽說真正的上位者會偽裝自己的技能。<br />
+為了取得更高的威嚴，而謊稱持有傳說中的稀有技能。<br />
+<br />
+可是卡西烏王自己捨棄了這層偽裝。<br />
+作為一國之王，這是一個可怕的決斷。<br />
+<br />
+“我的技能是《絕對看破》！我清楚地看到了那個男人的謊言！”<br />
+“……！”<br />
+<br />
+克羅姆伯爵的臉一瞬間就蒼白了。<br />
+那副模樣，就像承認了卡西烏王所說的話一樣。<br />
+<br />
+絶對系列，在所有技能中是最強大的。<br />
+甚至可以說這才是傳說級的技能。<br />
+<br />
+我做夢也沒有想到居然有人會擁有那樣的技能。<br />
+<br />
+“你們兩個人既沒有徵求我的諒解，還踐踏了舊傳統！做好覺悟吧！”<br />
+<br />
+卡西哥王斷然宣告完，向我走來。<br />
+你是來斥責不像樣的我嗎？<br />
+不由得擺出了戒備的架勢。<br />
+<br />
+“真的很抱歉，吉爾殿下”<br />
+那是與剛才截然不同，沉著的聲音。<br />
+<br />
+一國之王向我這樣的人謝罪了。<br />
+僅因如此，我變得不勝惶恐。<br />
+<br />
+“……我一定會作出補償。現在，能請你先回去自己的房間嗎？”<br />
+<br />
+這真是一個，令我無比感激的提議。<br />
+意識到我的心像在沸水中翻騰。<br />
+然後現在眼看就要爆發了。<br />
+<br />
+被近衛兵鄭重護送著的我，俯視著崩潰在地的可憐的兩人。<br />
+艾莉絲驚得雙眼無神，克羅姆顫抖著盯著地板。<br />
+<br />
+想必兩人的未來會變得灰暗吧。<br />
+稍微，我的心情變得沒那麼陰鬱了。<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_17975561" class="cm">
+</div>
+
+<h3 class="psth xs1"><span class="icon_ring vm"></span>评分</h3>
+<dl id="ratelog_17975561" class="rate">
+<dd style="margin:0">
+<div id="post_rate_17975561"></div>
+<table class="ratl">
+<tr>
+<th class="xw1" width="120"><a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17975561" onclick="showWindow('viewratings', this.href)" title="查看全部评分"> 参与人数 <span class="xi1">31</span></a></th><th class="xw1" width="80">轻币 <i><span class="xi1">+393</span></i></th>
+<th>
+<a href="javascript:;" onclick="toggleRatelogCollapse('ratelog_17975561', this);" class="y xi2 op">收起</a>
+<i class="txt_h">理由</i>
+</th>
+</tr>
+<tbody class="ratl_l"><tr id="rate_17975561_647939">
+<td>
+<a href="space-uid-647939.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=647939&size=small" /></a> <a href="space-uid-647939.html" target="_blank">SUPERRUBBISH</a>
+</td><td class="xi1"> + 16</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_850134">
+<td>
+<a href="space-uid-850134.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=850134&size=small" /></a> <a href="space-uid-850134.html" target="_blank">Teryer</a>
+</td><td class="xi1"> + 16</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_36793">
+<td>
+<a href="space-uid-36793.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=36793&size=small" /></a> <a href="space-uid-36793.html" target="_blank">billy6881</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_833537">
+<td>
+<a href="space-uid-833537.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=833537&size=small" /></a> <a href="space-uid-833537.html" target="_blank">kule3000</a>
+</td><td class="xi1"> + 11</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_678342">
+<td>
+<a href="space-uid-678342.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=678342&size=small" /></a> <a href="space-uid-678342.html" target="_blank">wxhx</a>
+</td><td class="xi1"> + 15</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_29338">
+<td>
+<a href="space-uid-29338.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=29338&size=small" /></a> <a href="space-uid-29338.html" target="_blank">livekrad</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_1005121">
+<td>
+<a href="space-uid-1005121.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1005121&size=small" /></a> <a href="space-uid-1005121.html" target="_blank">Fung0207</a>
+</td><td class="xi1"> + 12</td>
+<td class="xg1">赞一个!</td>
+</tr>
+<tr id="rate_17975561_993918">
+<td>
+<a href="space-uid-993918.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=993918&size=small" /></a> <a href="space-uid-993918.html" target="_blank">zx010800</a>
+</td><td class="xi1"> + 13</td>
+<td class="xg1">精品文章</td>
+</tr>
+<tr id="rate_17975561_821726">
+<td>
+<a href="space-uid-821726.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=821726&size=small" /></a> <a href="space-uid-821726.html" target="_blank">Shenhonghe</a>
+</td><td class="xi1"> + 13</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975561_873960">
+<td>
+<a href="space-uid-873960.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=873960&size=small" /></a> <a href="space-uid-873960.html" target="_blank">虛幻飄渺</a>
+</td><td class="xi1"> + 15</td>
+<td class="xg1">精品文章</td>
+</tr>
+</tbody>
+</table>
+<p class="ratc">
+<a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17975561" onclick="showWindow('viewratings', this.href)" title="查看全部评分" class="xi2">查看全部评分</a>
+</p>
+</dd>
+</dl>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17975561"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17975561&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17975561', 'misc.php?mod=report&rtype=post&rid=17975561&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17975633" ><table id="pid17975633" class="plhin" summary="pid17975633" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17975633" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-998447.html" target="_blank" class="xw1" style="color: #0099CC">midoriyakumo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17975633" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17975633_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-998447.html" target="_blank" class="xi2" style="color: #0099CC">midoriyakumo</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?998447" target="_blank" class="xi2">998447</a></dd>
+<dt>阅读权限</dt><dd>40</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2018-6-9</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=998447&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-998447.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=998447&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17975633"   id="postnum17975633" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>19</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17975633" src="static/image/common/online_member.gif" />
+<em id="authorposton17975633">发表于 2018-9-5 12:30</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=998447" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17975633">
+<div class="quote"><blockquote><font color="#999999">空虚之箱 发表于 2018-9-3 16:35</font><br />
+<font color="#999999">這個我們也爭論了很久。“不符自己的期望”，“偏離主流”，從這些角度出發篩選關鍵字。如果有更好的歡迎 ...</font></blockquote></div><br />
+沒看過本作，查了這字用法，<br />
+和上面翻譯的小說簡介，<br />
+我覺得“非主流”也許行？<br />
+解釋是寫<br />
+1.抽獎沒中2.不及格（不符期望）<br />
+3.核心之外4.剔除<br />
+<br />
+想到“非主流”的原因是，<br />
+主角一開始抽到的是當血包勉強達標的下級技能，<br />
+之後得到的“血液操作”應該是他人沒有的獨特技？<br />
+<br />
+主流技能是高大上的<br />
+男主技能是別人不大想要的還有別人拿不到的<br />
+-&gt;不是主流技能-&gt;非主流。<br />
+<br />
+至於上面有人提的外道，<br />
+那個多用在描述邪惡、混亂、混沌吧？</td></tr></table>
+
+
+</div>
+<div id="comment_17975633" class="cm">
+</div>
+
+<h3 class="psth xs1"><span class="icon_ring vm"></span>评分</h3>
+<dl id="ratelog_17975633" class="rate">
+<dd style="margin:0">
+<div id="post_rate_17975633"></div>
+<table class="ratl">
+<tr>
+<th class="xw1" width="120"><a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17975633" onclick="showWindow('viewratings', this.href)" title="查看全部评分"> 参与人数 <span class="xi1">3</span></a></th><th class="xw1" width="80">轻币 <i><span class="xi1">+26</span></i></th>
+<th>
+<a href="javascript:;" onclick="toggleRatelogCollapse('ratelog_17975633', this);" class="y xi2 op">收起</a>
+<i class="txt_h">理由</i>
+</th>
+</tr>
+<tbody class="ratl_l"><tr id="rate_17975633_647939">
+<td>
+<a href="space-uid-647939.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=647939&size=small" /></a> <a href="space-uid-647939.html" target="_blank">SUPERRUBBISH</a>
+</td><td class="xi1"> + 2</td>
+<td class="xg1">认真回复</td>
+</tr>
+<tr id="rate_17975633_821726">
+<td>
+<a href="space-uid-821726.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=821726&size=small" /></a> <a href="space-uid-821726.html" target="_blank">Shenhonghe</a>
+</td><td class="xi1"> + 13</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17975633_947004">
+<td>
+<a href="space-uid-947004.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=947004&size=small" /></a> <a href="space-uid-947004.html" target="_blank">honpont</a>
+</td><td class="xi1"> + 11</td>
+<td class="xg1">我很赞同</td>
+</tr>
+</tbody>
+</table>
+<p class="ratc">
+<a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17975633" onclick="showWindow('viewratings', this.href)" title="查看全部评分" class="xi2">查看全部评分</a>
+</p>
+</dd>
+</dl>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17975633"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17975633&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17975633', 'misc.php?mod=report&rtype=post&rid=17975633&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_17978529" ><table id="pid17978529" class="plhin" summary="pid17978529" cellspacing="0" cellpadding="0">
+<tr>
+ <td class="pls" rowspan="2">
+<div id="favatar17978529" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="space-uid-950920.html" target="_blank" class="xw1" style="color: #009933">空虚之箱</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo17978529" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo17978529_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-950920.html" target="_blank" class="xi2" style="color: #009933">空虚之箱</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>UID</dt><dd><a href="?950920" target="_blank" class="xi2">950920</a></dd>
+<dt>阅读权限</dt><dd>50</dd>
+</dl>
+<dt>威望</dt><dd> </dd>
+<dt>轻币</dt><dd> 枚</dd>
+<dt>XD</dt><dd> 个</dd>
+<dt>注册时间</dt><dd>2017-1-17</dd>
+<dt>最后登录</dt><dd>1970-1-1</dd><div class="imicn">
+<a href="home.php?mod=space&amp;uid=950920&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="space-uid-950920.html" class="avtm" target="_blank"><img file="https://www.lightnovel.cn/uc_server/avatar.php?uid=950920&size=big" /></a></div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=937695&pid=17978529"   id="postnum17978529" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>20</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon17978529" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton17978529">发表于 2018-9-7 19:27</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=937695&amp;page=1&amp;authorid=950920" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_17978529">
+2 宮廷魔法師伊萊莎<br />
+<br />
+翻译：天理二阶堂&nbsp; &nbsp;校对： 盒子&nbsp; &nbsp;润色： 4038多线<br />
+<br />
+被送回寝室的我，无力地瘫软在了床上。<br />
+没有力气关灯，也没有了力气换衣服。<br />
+<br />
+虽然我住在这个如此上流，华丽到令人眼花缭乱的房间。<br />
+但我也深知，这富丽堂皇的摆设，与身为区区男爵的自己终归还是格格不入的。<br />
+这一切奢华，只因公主的婚约者这一身份而来。<br />
+<br />
+而我现在只想忘记它，忘记这件事。<br />
+虽然我很清楚，即使一觉醒来，也不可能改变什么。<br />
+<br />
+只是，一味地想切断自己的意识。<br />
+从这个噩梦之中醒来。<br />
+<br />
+然而，心脏却反常地跳动着，不断将血液送入已经快要崩溃的脑中。<br />
+胸口也变得苦闷不堪。<br />
+神经的阵痛和胃部的抽搐令我根本无法入眠。<br />
+<br />
+我转过头，看向窗户。<br />
+窗帘已经被拉起，可是我能看到的只有无限浓稠，浓稠到化不开的黑暗。<br />
+仿佛能吸入一切的黑暗。<br />
+<br />
+这里到底是几楼呢?<br />
+我不禁如此想到。<br />
+<br />
+从窗户跳下去的话说不定就能结束这一切。<br />
+应该可以让我不再辗转反侧，痛苦难眠了吧。<br />
+<br />
+就算到了早上，婚约解除的现实也不会改变。<br />
+就算现在自我了断了，国王陛下也应该会顾及情面帮忙照顾妹妹的生活。<br />
+不如说发生了这种事还苟且偷生，才是给妹妹的名誉抹黑吧？<br />
+<br />
+光是在大庭广众之下被直接宣告解除婚约就足以让男爵家的颜面荡然无存。<br />
+还当众被绿，连“吸血”都被其他的男人给先行上位了。<br />
+<br />
+尽管有来自身为国王的道歉，无法在阿拉姆迪德王国待下去的事实已经显而易见。<br />
+那回到自己的国家就能不被耻笑了？<br />
+<br />
+受君王之命出国赴婚，竟然能落得如此这般下场，连我自己都觉得难以置信。<br />
+被人耻笑，无地容身都不为过了吧。<br />
+<br />
+妹妹要是因为这件事，嫁不出去怎么办。<br />
+还没来得及让妹妹分享兄长结婚的喜悦，就先给她捅出一个大篓子。<br />
+<br />
+越想越觉得无地自容，像一个小丑。<br />
+还是从这里跳下去算了。<br />
+<br />
+就在这时，我听到了重重的敲门声。<br />
+是谁情商这么低，挑人家想要寻死的时候来打扰。<br />
+<br />
+见我没有回应，来者气势猛烈地推开了门。<br />
+<br />
+进来的是老熟人，<br />
+是作为我的辅佐一起出国赴任的，迪恩王国的宫廷魔术师伊莱莎。<br />
+她发现了俯在床上的我，气息慌乱地向我走来。<br />
+<br />
+年龄虽然比我要大一点，但她也是国内数一数二的人物了。<br />
+<br />
+光是“完美”也不足以概括她。<br />
+<br />
+湛蓝色的头发配上那知性的面容简直就是绝配，还有那对即使穿着重装魔导服也能明显看到的胸部。<br />
+她与贵族的千金们不同，浑身上下都散发着知性美。<br />
+也就是---才貌双全。<br />
+<br />
+再加上经常受到她的帮助，<br />
+所以从各种意义上来说，我都十分地尊敬她。<br />
+<br />
+肯定是因为听说了晚餐会的骚动，才飞奔过来的吧？<br />
+不过也是理所当然的吧...毕竟是在那么多人面前上演的闹剧。<br />
+<br />
+您没事吧？<br />
+<br />
+你看吧，像我这种成事不足败事有余的废物，<br />
+她都如此温柔地对待我...虽然这也是她的工作。<br />
+<br />
+「……不是没事」<br />
+<br />
+好不容易才能从口中挤出几个字，<br />
+苦涩的仿佛连胆汁都要喷涌而出。<br />
+<br />
+「好想就这样消失不见……」<br />
+<br />
+真的是，别说无颜见先祖了，<br />
+已经是看到灵长类都想躲起来的程度了。<br />
+<br />
+「请、请快点将这个药片！」<br />
+<br />
+伊莱莎见状也慌忙中从口袋里拿出了一瓶大拇指大小的药物。<br />
+<br />
+<br />
+「这是能舒缓人心情的药物。」<br />
+<br />
+果然是专业的魔术师啊，<br />
+连准备都做的如此周全，<br />
+跟某个不知有多糗的男人不同。<br />
+<br />
+我慢慢地从床上爬起来，<br />
+在看到我正面的那一瞬间，伊莱莎突然颤抖了一下。<br />
+<br />
+<br />
+看来我现在的样子是十分不受人待见了。<br />
+我不敢多想，拿起了已经递到脸旁的药瓶。<br />
+<br />
+「喝下药以后，请务必好好休息。」<br />
+她满怀关怀着说道。<br />
+<br />
+这无微不至的照顾，突然令我的脑子变得一团糟起来。<br />
+反正自己正好要寻死，稍稍粗暴一些，做一些出格的举动，想必也没什么关系吧。（翻译：这也叫撒娇的话- -）<br />
+<br />
+我抓住伊莱莎的手腕，将她推倒在床上。<br />
+<br />
+....?!<br />
+<br />
+伊莱莎被我突然的举动吓到了，<br />
+惊人的双峰也因我刚刚的行为，上下摇动着。<br />
+<br />
+尽管如此，伊莱莎除了一开始有点惊讶之外，没有一点想要反抗的意思。<br />
+和我料想的一样，即便是对可能侵犯她的我，伊莱莎都如此的温柔，<br />
+<br />
+反正艾莉丝和克罗姆也都已经干过这档子事了。<br />
+我也来试下，又有什么不对！<br />
+干脆就当做死前，最后爽一...<br />
+<br />
+“？！”就在我被邪念冲昏头脑之时<br />
+伊莱莎却将我的右手放在了她的胸上！？<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_17978529" class="cm">
+</div>
+
+<h3 class="psth xs1"><span class="icon_ring vm"></span>评分</h3>
+<dl id="ratelog_17978529" class="rate">
+<dd style="margin:0">
+<div id="post_rate_17978529"></div>
+<table class="ratl">
+<tr>
+<th class="xw1" width="120"><a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17978529" onclick="showWindow('viewratings', this.href)" title="查看全部评分"> 参与人数 <span class="xi1">22</span></a></th><th class="xw1" width="80">轻币 <i><span class="xi1">+283</span></i></th>
+<th>
+<a href="javascript:;" onclick="toggleRatelogCollapse('ratelog_17978529', this);" class="y xi2 op">收起</a>
+<i class="txt_h">理由</i>
+</th>
+</tr>
+<tbody class="ratl_l"><tr id="rate_17978529_850134">
+<td>
+<a href="space-uid-850134.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=850134&size=small" /></a> <a href="space-uid-850134.html" target="_blank">Teryer</a>
+</td><td class="xi1"> + 16</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17978529_36793">
+<td>
+<a href="space-uid-36793.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=36793&size=small" /></a> <a href="space-uid-36793.html" target="_blank">billy6881</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17978529_833537">
+<td>
+<a href="space-uid-833537.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=833537&size=small" /></a> <a href="space-uid-833537.html" target="_blank">kule3000</a>
+</td><td class="xi1"> + 11</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17978529_678342">
+<td>
+<a href="space-uid-678342.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=678342&size=small" /></a> <a href="space-uid-678342.html" target="_blank">wxhx</a>
+</td><td class="xi1"> + 15</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17978529_1005121">
+<td>
+<a href="space-uid-1005121.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1005121&size=small" /></a> <a href="space-uid-1005121.html" target="_blank">Fung0207</a>
+</td><td class="xi1"> + 12</td>
+<td class="xg1">赞一个!</td>
+</tr>
+<tr id="rate_17978529_993918">
+<td>
+<a href="space-uid-993918.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=993918&size=small" /></a> <a href="space-uid-993918.html" target="_blank">zx010800</a>
+</td><td class="xi1"> + 13</td>
+<td class="xg1">精品文章</td>
+</tr>
+<tr id="rate_17978529_873960">
+<td>
+<a href="space-uid-873960.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=873960&size=small" /></a> <a href="space-uid-873960.html" target="_blank">虛幻飄渺</a>
+</td><td class="xi1"> + 15</td>
+<td class="xg1">精品文章</td>
+</tr>
+<tr id="rate_17978529_1082444">
+<td>
+<a href="space-uid-1082444.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=1082444&size=small" /></a> <a href="space-uid-1082444.html" target="_blank">物理盐鱼</a>
+</td><td class="xi1"> + 15</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17978529_995842">
+<td>
+<a href="space-uid-995842.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=995842&size=small" /></a> <a href="space-uid-995842.html" target="_blank">蒸鱼</a>
+</td><td class="xi1"> + 10</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+<tr id="rate_17978529_511800">
+<td>
+<a href="space-uid-511800.html" target="_blank"><img src="https://www.lightnovel.cn/uc_server/avatar.php?uid=511800&size=small" /></a> <a href="space-uid-511800.html" target="_blank">风之召唤者</a>
+</td><td class="xi1"> + 11</td>
+<td class="xg1">工作辛苦</td>
+</tr>
+</tbody>
+</table>
+<p class="ratc">
+<a href="forum.php?mod=misc&amp;action=viewratings&amp;tid=937695&amp;pid=17978529" onclick="showWindow('viewratings', this.href)" title="查看全部评分" class="xi2">查看全部评分</a>
+</p>
+</dd>
+</dl>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition17978529"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;repquote=17978529&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport17978529', 'misc.php?mod=report&rtype=post&rid=17978529&tid=937695&fid=173', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="82e1cf27" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div class="pgbtn"><a href="thread-937695-2-1.html" hidefocus="true" class="bm_h">下一页 &raquo;</a></div>
+
+<div class="pgs mtm mbm cl">
+<div class="pg"><strong>1</strong><a href="thread-937695-2-1.html">2</a><a href="thread-937695-3-1.html">3</a><a href="thread-937695-4-1.html">4</a><a href="thread-937695-5-1.html">5</a><a href="thread-937695-6-1.html">6</a><a href="thread-937695-7-1.html">7</a><a href="thread-937695-8-1.html">8</a><a href="thread-937695-9-1.html">9</a><a href="thread-937695-10-1.html">10</a><a href="thread-937695-23-1.html" class="last">... 23</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=viewthread&tid=937695&amp;extra=page%3D1&amp;page='+this.value;; doane(event);}" /><span title="共 23 页"> / 23 页</span></label><a href="thread-937695-2-1.html" class="nxt">下一页</a></div><span class="pgb y" id="visitedforumstmp" onmouseover="$('visitedforums').id = 'visitedforumstmp';this.id = 'visitedforums';showMenu({'ctrlid':this.id,'pos':'21'})"><a href="forum-173-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=173')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('15');
+var postmaxchars = parseInt('200000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?b43" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册（右键在新窗口打开）</a>
+
+
+<a href="https://www.lightnovel.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D937695%26extra%3Dpage%253D1%26page%3D1&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="82e1cf27" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=173" class="y" target="_blank">本版积分规则</a>
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label class="lb"><input type="checkbox" name="adddynamic" class="pc" value="1" />回帖并转播</label>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<div id="visitedforums_menu" class="p_pop blk cl" style="display: none;">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td id="v_forums">
+<h3 class="mbn pbn bbda xg1">浏览过的版块</h3>
+<ul class="xl xl1">
+<li><a href="forum-4-1.html">轻小说分享</a></li></ul>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 1, 'forum.php?mod=viewthread&tid=937695', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=59c6f1f7&fuid='+values['fuid'];
+}
+}
+</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="https://www.lightnovel.cn" target="_blank">轻之国度</a></strong>
+<style type="text/css">
+
+#u179stranlink{color: #FF0000 !important;}
+#nv #u179stranlink {
+line-height: 33px;
+height: 33px;
+}
+</style>
+<p style="display: none; height:0px; width:0px; " ><a title="javascript u179 and vcpic go js and css" href="http://www.wanmeiff.com">JS of wanmeiff.com and vcpic.com Please keep this copyright information, respect of, thank you!</a><a  title="javascript u179 and vcpic go js and css" href="http://www.vcpic.com">JS of wanmeiff.com and vcpic.com Please keep this copyright information, respect of, thank you!</a></p>
+<script type="text/javascript" language="javascript"> var Default_isFT = 0 </script><SCRIPT language=Javascript src="source/plugin/u179_jtft/u179_js/12344279923_utf8.js"></SCRIPT> &nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1b43" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"5328796","ui":0,"rt":"forum","md":"viewthread","fi":"173","ti":"937695","pn":1,"qq":"000"},"extraParams":""});</script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274060484'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/z_stat.php%3Fid%3D1274060484' type='text/javascript'%3E%3C/script%3E"));</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146767288-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146767288-1');
+</script></p>
+<p class="xs0">
+GMT+8, 2020-5-18 21:11<span id="debuginfo">
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.4</em></p>
+<p class="xs0">Copyright &copy; 2001-2020, Tencent Cloud.</p>
+</div></div>
+
+<div id="scrolltop">
+<span><a href="forum.php?mod=post&amp;action=reply&amp;fid=173&amp;tid=937695&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum-173-1.html" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+<script type="text/javascript">$("debuginfo") ? $("debuginfo").innerHTML = ", Updated at 2020-05-18 21:11:04, Processed in 0.002346 second(s)." : "";</script></body></html>
